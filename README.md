@@ -12,7 +12,10 @@ The central goal is to design a model to classify the flower .
 
 ![image](https://github.com/yeshachauhan3/Iris_classification_using_ML/assets/110628046/aa8e183f-a65c-4606-89d7-35f0ae4b8a56)
 
+
 #BoxPlot Chart
+
+
 ![image](https://github.com/yeshachauhan3/Iris_classification_using_ML/assets/110628046/521c194e-ab07-475c-8434-30fd497c81b2)
 
 #ViolinPlot Subplot
